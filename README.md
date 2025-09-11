@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello there
 
-<!--
-**Maya-Yagan/maya-yagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I recently graduated from Yalova University with a degree in Computer Engineering. I’ve interned as a Full Stack Developer and a Frontend Developer, and Java is my favorite language to work with. I love creating apps and exploring new tech along the way.
+<div align="center">
+<table>
+<tr>
+<td>
 
-Here are some ideas to get you started:
+### Life Motto
+Write your code underwater, the water will hide your tears 🌊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’d love to **collaborate** and **contribute to open source projects**!  
+You can contact me if you want to collaborate with me:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maya-yagan)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maya2002yagan@gmail.com)
+
+</td>
+<td>
+
+### 🏆 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maya-yagan&layout=compact&theme=radical" />
+
+</td>
+</tr>
+</table>
+<div/>
+  
+## GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=maya-yagan&color=blue)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maya-yagan&theme=radical" />
+</p>
