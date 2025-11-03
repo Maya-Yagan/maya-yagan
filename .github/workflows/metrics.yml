@@ -53,10 +53,6 @@ jobs:
           template: classic
           filename: .generated/metrics-right.svg
           base: metadata
-          
-          plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
   
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
