@@ -54,12 +54,9 @@ jobs:
           filename: .generated/metrics-right.svg
           base: metadata
           
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
   
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
