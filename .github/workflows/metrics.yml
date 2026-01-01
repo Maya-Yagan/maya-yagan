@@ -42,7 +42,6 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_ignored: jupyter notebook
-          plugin_languages_other: yes
           plugin_languages_threshold: 1%
 
           plugin_traffic: yes
